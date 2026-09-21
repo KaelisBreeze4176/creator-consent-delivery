@@ -1,0 +1,1 @@
+{"name":"creator-consent-delivery","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","test":"node --experimental-strip-types test/content_delivery.test.ts","deliver":"node --experimental-strip-types src/content_delivery.ts"},"dependencies":{"zod":"^3.23.0"},"devDependencies":{"@types/node":"^22.0.0","typescript":"^5.6.0"}}
